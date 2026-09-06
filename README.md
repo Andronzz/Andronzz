@@ -23,15 +23,10 @@
 | **🌍 ГИС-платформы & БД** | ArcGIS Enterprise, GeoServer, PostgreSQL/PostGIS, MS SQL Server, QGIS, pgModeler |
 | **🔄 Обработка & ETL** | FME, Python (Pandas, GeoPandas, GDAL/OGR), PDAL, LASpy, PostGIS |
 | **📡 ДЗЗ & Фотограмметрия** | OpenDroneMap (ODM), Agisoft Metashape, Pix4D, RTKLIB (PPK/PPP), ASPRS LiDAR Classification |
-| **🐳 DevOps & ML** | Docker, WSL, CI/CD, Python (scikit-learn, TensorFlow) |
+| **🐳 DevOps & ML** | Docker, WSL, CI/CD, Python (scikit-learn, TensorFlow), Randla-net |
 | **🎨 Визуализация & Веб** | MapLibre GL JS, OpenLayers, OGC-сервисы (WMS, WFS, WMTS), 3D (CityJSON) |
 | **🏗 Архитектура & Управление** | Проектирование ТЗ/СТО, миграция legacy-систем, Agile/Waterfall, управление командой (5+ чел.) |
 
-Geospatial & LiDAR: PDAL, laspy, LAStools, OpenDroneMap, RTKLIB
-Machine Learning: PyTorch, PyTorch Geometric, RandLA-Net, scikit-learn, TensorFlow
-ГИС-платформы: PostGIS, GeoServer, ArcGIS Enterprise, «НАШа ГИС»
-Базы данных: PostgreSQL, MS SQL Server, ArcSDEDevOpsDocker, Celery, Redis, MinIO
-Фронтенд (ГИС): MapLibre GL JS, OpenLayers, CesiumJS
 ---
 
 ### 🚀 Избранные проекты
